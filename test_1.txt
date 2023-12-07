@@ -1,0 +1,2 @@
+This is my first git_intro file.
+I love Belgian choclate ice-cream.
